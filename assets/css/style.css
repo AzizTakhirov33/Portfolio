@@ -268,8 +268,8 @@ img {
 }
 
 .home__name {
-    font-size: var(--big-font-size);
-    font-weight: var(--font-bold);
+    font-size: var(--biggest-font-size);
+    font-weight: var(--font-semi-bold);
     word-break: break-word;
     margin-bottom: 1rem;
 }
